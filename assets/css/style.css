@@ -73,11 +73,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-    margin: 0 auto;
-    text-align: right;
 }
 
-.text-right p {
+.text-right h2 p,
+.text-right {
     text-align: right;
     direction: ltr;
     right: 0;
