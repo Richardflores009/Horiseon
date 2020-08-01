@@ -1,3 +1,4 @@
+/* universal selector that overwrites general css */
 * {
     box-sizing: border-box;
     padding: 0;
