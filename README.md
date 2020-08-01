@@ -11,10 +11,10 @@ This deployed application link contains a pre-existing website that's code has b
 ## Screenshot
 ******************************************************************************************************************************************************************************************************************************
 
-### Top screenshot of webpage:
+Top screenshot of webpage:
 ! [alt text] [logo] (https://github.com/Richardflores009/Horiseon/blob/master/assets/images/Screen%20Shot%202020-07-31%20at%2017.40.54.png "Top of webpage")
 
-### Bottom screenshot of webpage:
+Bottom screenshot of webpage:
 ! [alt text] [logo] (https://github.com/Richardflores009/Horiseon/blob/master/assets/images/Screen%20Shot%202020-07-31%20at%2017.40.30.png "Bottom of webpage")
 
 
