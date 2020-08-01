@@ -5,7 +5,7 @@ Week 1: Challenge
 ## Description 
 ******************************************************************************************************************************************************************************************************************************
 
-This deployed application link contains a pre-existing website that's code has been refraacted. On the HTML side semantic elements were added and HTML elements were mad to follow a logical structure that is independent of styling. images have accessibility attributes and headings fall into sequential order. Lastly I have added a concise descriptive title for the webpage. 
+This deployed application link contains a pre-existing website that's code has been refracted. On the HTML side semantic elements were added and HTML elements were made to follow a logical structure that is independent of styling. images have accessibility attributes and headings fall into sequential order. Lastly I have added a concise descriptive title for the webpage. 
 
 
 ## Screenshot
